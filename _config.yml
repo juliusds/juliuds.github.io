@@ -1,7 +1,7 @@
-title:            Kiwoong
-description:      "devlog & blog"
+title:            Juliuds
+description:      "my blog"
 logo:             logo.png
-disqus_shortname: Newhiwoong
+disqus_shortname: Juliuds
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -9,21 +9,20 @@ dropcap:			true
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 
 remote_theme : hmfaysal/Notepad
-
-url                      : "https://newhiwoong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://juliuds.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 
 # Owner/author information
 owner:
-  name:           Kiwoong Yeom
+  name:           My Name
   avatar:         hmfaysal.jpg
-  email:          newhiwoong@gmail.com
+  email:          myemail@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    A person longing for any dream for a long time  resembles that dream at last .
+  description:    한 줄로 자기소개나 좋아하는 글 쓰면 돼요.
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        hmfaysal
   #facebook:       hmfaysal
-  github:         newhiwoong      
+  github:         juliuds      
   #instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    https://plus.google.com/u/0/102602916593522619858
